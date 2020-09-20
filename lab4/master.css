@@ -1,0 +1,48 @@
+table {
+  table-layout: fixed;
+  width: 60%;
+
+}
+
+.body{
+  margin-left:10%;
+  margin-right: 7%;
+
+}
+h1{
+  text-align: center;
+}
+.sec{
+  border-radius: 1rem;
+  border:2px solid black;
+  margin:2rem;
+  padding:5px 5px 10px 20px;
+}
+.img{
+  margin-left:70rem;
+  position:absolute;
+
+  top:10rem;
+}
+.head{
+
+
+  position:relative;
+  z-index: 1;
+  bottom:2.5rem;
+
+
+
+}
+.ba{
+  background-color: white;
+  width:9.3rem;
+}
+.ac{
+  background-color: white;
+  width:11.5rem;
+}
+.ab{
+  background-color: white;
+  width:8rem;
+}
